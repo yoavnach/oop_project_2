@@ -1,3 +1,4 @@
+import Comarators.CompareDate;
 import gym.Exception.*;
 import gym.customers.*;
 import gym.management.*;
@@ -125,8 +126,6 @@ public class Main {
         System.out.println("\n---Gym information---");
 
         System.out.print(gym);
+
     }
-
-
-
 }
